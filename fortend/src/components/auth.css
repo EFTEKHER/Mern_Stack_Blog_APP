@@ -1,0 +1,16 @@
+.loginscreen{
+    background-image:
+    url(
+  "../images/whitebg.jpg");
+    background-size: "cover";
+    height: 100vh;
+    margin-top: -70px;
+    font-size:50px;
+    background-repeat:repeat;
+}
+
+.your-class {
+	border-width: 5px !important;
+	border-color: rgb(0, 10, 25) !important;
+	background-color: rgba(2, 12, 15, 0.753);
+}
